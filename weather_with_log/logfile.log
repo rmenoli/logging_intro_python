@@ -1,0 +1,3 @@
+2020-07-07 01:23:52,159~CRITICAL~API <class 'utils.AirPressureApi'> is not working~module:features_ingestion~function:features_ingestion
+2020-07-07 01:23:58,885~CRITICAL~API <class 'utils.CloudsNearbyApi'> is not working~module:features_ingestion~function:features_ingestion
+2020-07-07 01:24:31,606~CRITICAL~API <class 'utils.CloudsNearbyApi'> is not working~module:features_ingestion
